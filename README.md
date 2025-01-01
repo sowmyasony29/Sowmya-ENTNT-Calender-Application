@@ -1,3 +1,8 @@
+![Dashboard Screenshot](https://github.com/sowmyasony29/Sowmya-ENTNT-Calender-Application/blob/main/Assessment-1.png)
+![Communication](https://github.com/sowmyasony29/Sowmya-ENTNT-Calender-Application/blob/main/Assessment-2.png)
+![Company-Management](https://github.com/sowmyasony29/Sowmya-ENTNT-Calender-Application/blob/main/Assessment-Company-3.png)
+
+
 # Company Management Application
 ## Description
 
