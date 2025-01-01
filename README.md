@@ -111,4 +111,3 @@ Thoughtful UI/UX design choices.
 ## Additional Notes
 **Login Credentials**: If the app requires login, please include the credentials in the email.
 **Libraries/Tools**: Any external libraries or frameworks (e.g., Redux, Tailwind CSS) used in the project will be documented here.
-**Contact**: If you have any questions or need clarification, feel free to contact us at hr@entnt.in.
